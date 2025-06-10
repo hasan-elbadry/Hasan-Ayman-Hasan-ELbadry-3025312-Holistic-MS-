@@ -1,0 +1,3 @@
+﻿global using Hasan_Ayman_Hasan_ELbadry_3025312__Holistic_MS_.Dtos.AccountDtos;
+global using Hasan_Ayman_Hasan_ELbadry_3025312__Holistic_MS_.Dtos.BankCardDtos;
+global using Hasan_Ayman_Hasan_ELbadry_3025312__Holistic_MS_.Dtos.BranchDtos;
